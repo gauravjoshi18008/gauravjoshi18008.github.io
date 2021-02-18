@@ -34,7 +34,7 @@ body {
     font-size: 20px;
     text-rendering: optimizeLegibility;
     overflow-x: hidden;
-    background-color: rgb(12 12 12 / 31%);
+    background-color: #ffff0017;
 }
 
 .clearfix {zoom: 1;}
@@ -114,6 +114,9 @@ h2:after {
     margin-left: 15%;
 }
 
+.venue {
+    color: rgb(88, 43, 11)
+}
 .center-la-ghe-re-naav {
     margin: auto;
     text-align: center;
