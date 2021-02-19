@@ -132,9 +132,10 @@ h2:after {
     color: rgb(88 43 11);
     line-height: 1.5;
     margin-top: 2%;
+    margin-bottom: 4%;
     font-style: italic;
     font-weight: 800;
-    font-size: 30px;
+    font-size: 23px;
     
 }
 .sushant , 
@@ -262,6 +263,8 @@ header {
     width: 15%;
     margin-left: auto;
     margin-right: auto;
+        margin-top: 2%;
+
     /* opacity: 1; */
     mix-blend-mode: multiply;
 }
@@ -366,7 +369,11 @@ header {
     margin-left: 360px;
 }
 
-
+.invitation-card {
+    background-color: #f5deb354;
+    border: 3px solid#e67e22;
+    border-radius: 90px;
+}
 /* ----------------------------------------------- */
 /* MEALS */
 /* ----------------------------------------------- */
