@@ -85,7 +85,28 @@
     .sticky .mobile-nav-icon { margin-top: 10px; }
     .sticky .mobile-nav-icon i { color: #555; }
     
+     .bappa-at-top {
+        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(img/bappa1.jpg);
+        background-image: linear-gradient((rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(img/bappa1.jpg));
+        background-position: center;
+        height: 175px;
+        width: 40%;
+        margin-left: auto;
+        margin-right: auto;
+        /* opacity: 1; */
+        mix-blend-mode: multiply;
+    }
     
+    .center-la-ghe-re-naav {
+        margin: auto;
+        text-align: center;
+        color: rgb(88 43 11);
+        line-height: 1.5;
+        margin-top: 2%;
+        font-style: italic;
+        font-weight: 400;
+        font-size: 15px;
+    }
     
     h1 { font-size: 180%; }
     h2 { font-size: 150%; }
@@ -117,5 +138,29 @@
 @media only screen and (max-width: 480px) {
     section { padding: 25px 0; }
     .contact-form {width: 100%; }
+    
+    .bappa-at-top {
+        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(img/bappa1.jpg);
+        background-image: linear-gradient((rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(img/bappa1.jpg));
+        background-position: center;
+        height: 175px;
+        width: 40%;
+        margin-left: auto;
+        margin-right: auto;
+        /* opacity: 1; */
+        mix-blend-mode: multiply;
+    }
+
+     .center-la-ghe-re-naav {
+        margin: auto;
+        text-align: center;
+        color: rgb(88 43 11);
+        line-height: 1.5;
+        margin-top: 2%;
+        font-style: italic;
+        font-weight: 400;
+        font-size: 15px;
+    }
+   
 }
 
