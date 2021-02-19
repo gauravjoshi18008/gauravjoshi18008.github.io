@@ -129,7 +129,12 @@
         padding: 4px;
         font-size: 120%;
     }
-    
+    .meals-showcase li {
+        display: block;
+        float: left;
+        width: 100%;
+    }
+   
     .works-step { margin-bottom: 20px; }
     .works-step:last-of-type { margin-bottom: 20px; }
     
@@ -166,6 +171,12 @@
         font-style: italic;
         font-weight: 600;
         font-size: 18px;
+    }
+    
+    .meals-showcase li {
+        display: block;
+        float: left;
+        width: 100%;
     }
    
 }
