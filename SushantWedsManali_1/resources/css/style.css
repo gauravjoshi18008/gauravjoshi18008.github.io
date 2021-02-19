@@ -263,7 +263,7 @@ header {
     width: 15%;
     margin-left: auto;
     margin-right: auto;
-        margin-top: 2%;
+    margin-top: 2%;
 
     /* opacity: 1; */
     mix-blend-mode: multiply;
@@ -372,7 +372,7 @@ header {
 .invitation-card {
     background-color: #f5deb354;
     border: 3px solid #e67e22;
-    border-radius: 90px;
+    border-radius: 60px;
 }
 /* ----------------------------------------------- */
 /* MEALS */
