@@ -135,6 +135,13 @@
         width: 100%;
     }
    
+        .invitation-card {
+        background-color: #f5deb354;
+        border: 3px solid #e67e22;
+        border-radius: 35px;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
     .works-step { margin-bottom: 20px; }
     .works-step:last-of-type { margin-bottom: 20px; }
     
@@ -173,6 +180,13 @@
         font-size: 18px;
     }
     
+    .invitation-card {
+        background-color: #f5deb354;
+        border: 3px solid #e67e22;
+        border-radius: 35px;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
     .meals-showcase li {
         display: block;
         float: left;
